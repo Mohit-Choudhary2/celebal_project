@@ -1,0 +1,2255 @@
+{
+  "status": "success",
+  "records": [
+    {
+      "session_id": "sess_100000",
+      "channel": "Social Media",
+      "device": "Mobile",
+      "page_views": 1,
+      "session_duration_sec": 9,
+      "bounce": false,
+      "transaction_value": 0.0
+    },
+    {
+      "session_id": "sess_100001",
+      "channel": "Paid Search",
+      "device": "Desktop",
+      "page_views": 11,
+      "session_duration_sec": 131,
+      "bounce": false,
+      "transaction_value": 0.0
+    },
+    {
+      "session_id": "sess_100002",
+      "channel": "Organic Search",
+      "device": "Desktop",
+      "page_views": 1,
+      "session_duration_sec": 20,
+      "bounce": false,
+      "transaction_value": 0.0
+    },
+    {
+      "session_id": "sess_100003",
+      "channel": "Paid Search",
+      "device": "Desktop",
+      "page_views": 5,
+      "session_duration_sec": 85,
+      "bounce": false,
+      "transaction_value": 0.0
+    },
+    {
+      "session_id": "sess_100004",
+      "channel": "Direct",
+      "device": "Desktop",
+      "page_views": 2,
+      "session_duration_sec": 86,
+      "bounce": false,
+      "transaction_value": 0.0
+    },
+    {
+      "session_id": "sess_100005",
+      "channel": "Organic Search",
+      "device": "Mobile",
+      "page_views": 1,
+      "session_duration_sec": 98,
+      "bounce": true,
+      "transaction_value": 0.0
+    },
+    {
+      "session_id": "sess_100006",
+      "channel": "Direct",
+      "device": "Desktop",
+      "page_views": 3,
+      "session_duration_sec": 77,
+      "bounce": false,
+      "transaction_value": 11.84
+    },
+    {
+      "session_id": "sess_100007",
+      "channel": "Social Media",
+      "device": "Tablet",
+      "page_views": 6,
+      "session_duration_sec": 149,
+      "bounce": false,
+      "transaction_value": 0.0
+    },
+    {
+      "session_id": "sess_100008",
+      "channel": "Organic Search",
+      "device": "Desktop",
+      "page_views": 3,
+      "session_duration_sec": 109,
+      "bounce": false,
+      "transaction_value": 14.9
+    },
+    {
+      "session_id": "sess_100009",
+      "channel": "Organic Search",
+      "device": "Desktop",
+      "page_views": 2,
+      "session_duration_sec": 21,
+      "bounce": true,
+      "transaction_value": 0.0
+    },
+    {
+      "session_id": "sess_100010",
+      "channel": "Direct",
+      "device": "Mobile",
+      "page_views": 1,
+      "session_duration_sec": 75,
+      "bounce": false,
+      "transaction_value": 0.0
+    },
+    {
+      "session_id": "sess_100011",
+      "channel": "Direct",
+      "device": "Mobile",
+      "page_views": 7,
+      "session_duration_sec": 244,
+      "bounce": false,
+      "transaction_value": 53.42
+    },
+    {
+      "session_id": "sess_100012",
+      "channel": "Referral",
+      "device": "Desktop",
+      "page_views": 6,
+      "session_duration_sec": 76,
+      "bounce": true,
+      "transaction_value": 72.89
+    },
+    {
+      "session_id": "sess_100013",
+      "channel": "Referral",
+      "device": "Mobile",
+      "page_views": 1,
+      "session_duration_sec": 228,
+      "bounce": true,
+      "transaction_value": 0.0
+    },
+    {
+      "session_id": "sess_100014",
+      "channel": "Direct",
+      "device": "Mobile",
+      "page_views": 4,
+      "session_duration_sec": 92,
+      "bounce": true,
+      "transaction_value": 0.0
+    },
+    {
+      "session_id": "sess_100015",
+      "channel": "Social Media",
+      "device": "Mobile",
+      "page_views": 2,
+      "session_duration_sec": 46,
+      "bounce": false,
+      "transaction_value": 0.0
+    },
+    {
+      "session_id": "sess_100016",
+      "channel": "Referral",
+      "device": "Mobile",
+      "page_views": 1,
+      "session_duration_sec": 105,
+      "bounce": false,
+      "transaction_value": 0.0
+    },
+    {
+      "session_id": "sess_100017",
+      "channel": "Paid Search",
+      "device": "Desktop",
+      "page_views": 5,
+      "session_duration_sec": 99,
+      "bounce": false,
+      "transaction_value": 0.0
+    },
+    {
+      "session_id": "sess_100018",
+      "channel": "Organic Search",
+      "device": "Desktop",
+      "page_views": 2,
+      "session_duration_sec": 64,
+      "bounce": true,
+      "transaction_value": 0.0
+    },
+    {
+      "session_id": "sess_100019",
+      "channel": "Referral",
+      "device": "Mobile",
+      "page_views": 2,
+      "session_duration_sec": 318,
+      "bounce": true,
+      "transaction_value": 62.64
+    },
+    {
+      "session_id": "sess_100020",
+      "channel": "Direct",
+      "device": "Mobile",
+      "page_views": 5,
+      "session_duration_sec": 18,
+      "bounce": false,
+      "transaction_value": 0.0
+    },
+    {
+      "session_id": "sess_100021",
+      "channel": "Organic Search",
+      "device": "Mobile",
+      "page_views": 8,
+      "session_duration_sec": 41,
+      "bounce": false,
+      "transaction_value": 2.97
+    },
+    {
+      "session_id": "sess_100022",
+      "channel": "Paid Search",
+      "device": "Desktop",
+      "page_views": 1,
+      "session_duration_sec": 556,
+      "bounce": false,
+      "transaction_value": 0.0
+    },
+    {
+      "session_id": "sess_100023",
+      "channel": "Social Media",
+      "device": "Tablet",
+      "page_views": 2,
+      "session_duration_sec": 291,
+      "bounce": false,
+      "transaction_value": 8.97
+    },
+    {
+      "session_id": "sess_100024",
+      "channel": "Paid Search",
+      "device": "Mobile",
+      "page_views": 3,
+      "session_duration_sec": 57,
+      "bounce": false,
+      "transaction_value": 0.0
+    },
+    {
+      "session_id": "sess_100025",
+      "channel": "Referral",
+      "device": "Desktop",
+      "page_views": 1,
+      "session_duration_sec": 464,
+      "bounce": true,
+      "transaction_value": 0.0
+    },
+    {
+      "session_id": "sess_100026",
+      "channel": "Organic Search",
+      "device": "Desktop",
+      "page_views": 2,
+      "session_duration_sec": 91,
+      "bounce": true,
+      "transaction_value": 0.0
+    },
+    {
+      "session_id": "sess_100027",
+      "channel": "Direct",
+      "device": "Mobile",
+      "page_views": 1,
+      "session_duration_sec": 74,
+      "bounce": false,
+      "transaction_value": 0.0
+    },
+    {
+      "session_id": "sess_100028",
+      "channel": "Paid Search",
+      "device": "Desktop",
+      "page_views": 2,
+      "session_duration_sec": 1,
+      "bounce": false,
+      "transaction_value": 0.0
+    },
+    {
+      "session_id": "sess_100029",
+      "channel": "Paid Search",
+      "device": "Mobile",
+      "page_views": 6,
+      "session_duration_sec": 113,
+      "bounce": true,
+      "transaction_value": 0.0
+    },
+    {
+      "session_id": "sess_100030",
+      "channel": "Referral",
+      "device": "Mobile",
+      "page_views": 2,
+      "session_duration_sec": 116,
+      "bounce": false,
+      "transaction_value": 53.76
+    },
+    {
+      "session_id": "sess_100031",
+      "channel": "Direct",
+      "device": "Mobile",
+      "page_views": 2,
+      "session_duration_sec": 12,
+      "bounce": false,
+      "transaction_value": 0.0
+    },
+    {
+      "session_id": "sess_100032",
+      "channel": "Social Media",
+      "device": "Desktop",
+      "page_views": 5,
+      "session_duration_sec": 146,
+      "bounce": true,
+      "transaction_value": 32.34
+    },
+    {
+      "session_id": "sess_100033",
+      "channel": "Organic Search",
+      "device": "Mobile",
+      "page_views": 6,
+      "session_duration_sec": 65,
+      "bounce": true,
+      "transaction_value": 0.0
+    },
+    {
+      "session_id": "sess_100034",
+      "channel": "Social Media",
+      "device": "Mobile",
+      "page_views": 11,
+      "session_duration_sec": 40,
+      "bounce": true,
+      "transaction_value": 0.0
+    },
+    {
+      "session_id": "sess_100035",
+      "channel": "Paid Search",
+      "device": "Mobile",
+      "page_views": 2,
+      "session_duration_sec": 797,
+      "bounce": false,
+      "transaction_value": 0.0
+    },
+    {
+      "session_id": "sess_100036",
+      "channel": "Referral",
+      "device": "Mobile",
+      "page_views": 1,
+      "session_duration_sec": 78,
+      "bounce": false,
+      "transaction_value": 0.0
+    },
+    {
+      "session_id": "sess_100037",
+      "channel": "Organic Search",
+      "device": "Mobile",
+      "page_views": 1,
+      "session_duration_sec": 36,
+      "bounce": true,
+      "transaction_value": 0.0
+    },
+    {
+      "session_id": "sess_100038",
+      "channel": "Referral",
+      "device": "Desktop",
+      "page_views": 1,
+      "session_duration_sec": 96,
+      "bounce": false,
+      "transaction_value": 0.0
+    },
+    {
+      "session_id": "sess_100039",
+      "channel": "Paid Search",
+      "device": "Mobile",
+      "page_views": 1,
+      "session_duration_sec": 258,
+      "bounce": false,
+      "transaction_value": 0.0
+    },
+    {
+      "session_id": "sess_100040",
+      "channel": "Organic Search",
+      "device": "Tablet",
+      "page_views": 1,
+      "session_duration_sec": 128,
+      "bounce": false,
+      "transaction_value": 30.07
+    },
+    {
+      "session_id": "sess_100041",
+      "channel": "Social Media",
+      "device": "Mobile",
+      "page_views": 10,
+      "session_duration_sec": 128,
+      "bounce": false,
+      "transaction_value": 0.0
+    },
+    {
+      "session_id": "sess_100042",
+      "channel": "Social Media",
+      "device": "Desktop",
+      "page_views": 2,
+      "session_duration_sec": 70,
+      "bounce": false,
+      "transaction_value": 55.55
+    },
+    {
+      "session_id": "sess_100043",
+      "channel": "Referral",
+      "device": "Desktop",
+      "page_views": 3,
+      "session_duration_sec": 15,
+      "bounce": true,
+      "transaction_value": 0.0
+    },
+    {
+      "session_id": "sess_100044",
+      "channel": "Referral",
+      "device": "Desktop",
+      "page_views": 2,
+      "session_duration_sec": 16,
+      "bounce": true,
+      "transaction_value": 130.28
+    },
+    {
+      "session_id": "sess_100045",
+      "channel": "Paid Search",
+      "device": "Desktop",
+      "page_views": 2,
+      "session_duration_sec": 284,
+      "bounce": false,
+      "transaction_value": 51.23
+    },
+    {
+      "session_id": "sess_100046",
+      "channel": "Direct",
+      "device": "Tablet",
+      "page_views": 3,
+      "session_duration_sec": 2,
+      "bounce": true,
+      "transaction_value": 0.0
+    },
+    {
+      "session_id": "sess_100047",
+      "channel": "Social Media",
+      "device": "Mobile",
+      "page_views": 1,
+      "session_duration_sec": 363,
+      "bounce": false,
+      "transaction_value": 0.0
+    },
+    {
+      "session_id": "sess_100048",
+      "channel": "Social Media",
+      "device": "Desktop",
+      "page_views": 1,
+      "session_duration_sec": 24,
+      "bounce": true,
+      "transaction_value": 2.74
+    },
+    {
+      "session_id": "sess_100049",
+      "channel": "Social Media",
+      "device": "Mobile",
+      "page_views": 4,
+      "session_duration_sec": 130,
+      "bounce": false,
+      "transaction_value": 0.0
+    },
+    {
+      "session_id": "sess_100050",
+      "channel": "Organic Search",
+      "device": "Mobile",
+      "page_views": 5,
+      "session_duration_sec": 2,
+      "bounce": false,
+      "transaction_value": 0.0
+    },
+    {
+      "session_id": "sess_100051",
+      "channel": "Organic Search",
+      "device": "Mobile",
+      "page_views": 2,
+      "session_duration_sec": 284,
+      "bounce": false,
+      "transaction_value": 0.0
+    },
+    {
+      "session_id": "sess_100052",
+      "channel": "Social Media",
+      "device": "Mobile",
+      "page_views": 1,
+      "session_duration_sec": 249,
+      "bounce": true,
+      "transaction_value": 0.0
+    },
+    {
+      "session_id": "sess_100053",
+      "channel": "Social Media",
+      "device": "Mobile",
+      "page_views": 6,
+      "session_duration_sec": 14,
+      "bounce": false,
+      "transaction_value": 0.0
+    },
+    {
+      "session_id": "sess_100054",
+      "channel": "Organic Search",
+      "device": "Mobile",
+      "page_views": 6,
+      "session_duration_sec": 157,
+      "bounce": false,
+      "transaction_value": 0.0
+    },
+    {
+      "session_id": "sess_100055",
+      "channel": "Direct",
+      "device": "Desktop",
+      "page_views": 1,
+      "session_duration_sec": 156,
+      "bounce": false,
+      "transaction_value": 0.0
+    },
+    {
+      "session_id": "sess_100056",
+      "channel": "Paid Search",
+      "device": "Tablet",
+      "page_views": 1,
+      "session_duration_sec": 77,
+      "bounce": false,
+      "transaction_value": 26.37
+    },
+    {
+      "session_id": "sess_100057",
+      "channel": "Social Media",
+      "device": "Desktop",
+      "page_views": 1,
+      "session_duration_sec": 55,
+      "bounce": true,
+      "transaction_value": 0.0
+    },
+    {
+      "session_id": "sess_100058",
+      "channel": "Social Media",
+      "device": "Mobile",
+      "page_views": 1,
+      "session_duration_sec": 247,
+      "bounce": true,
+      "transaction_value": 55.88
+    },
+    {
+      "session_id": "sess_100059",
+      "channel": "Direct",
+      "device": "Desktop",
+      "page_views": 11,
+      "session_duration_sec": 95,
+      "bounce": false,
+      "transaction_value": 0.0
+    },
+    {
+      "session_id": "sess_100060",
+      "channel": "Direct",
+      "device": "Mobile",
+      "page_views": 2,
+      "session_duration_sec": 0,
+      "bounce": false,
+      "transaction_value": 0.0
+    },
+    {
+      "session_id": "sess_100061",
+      "channel": "Direct",
+      "device": "Desktop",
+      "page_views": 3,
+      "session_duration_sec": 242,
+      "bounce": true,
+      "transaction_value": 1.39
+    },
+    {
+      "session_id": "sess_100062",
+      "channel": "Direct",
+      "device": "Desktop",
+      "page_views": 2,
+      "session_duration_sec": 500,
+      "bounce": false,
+      "transaction_value": 0.0
+    },
+    {
+      "session_id": "sess_100063",
+      "channel": "Referral",
+      "device": "Desktop",
+      "page_views": 2,
+      "session_duration_sec": 174,
+      "bounce": false,
+      "transaction_value": 0.0
+    },
+    {
+      "session_id": "sess_100064",
+      "channel": "Organic Search",
+      "device": "Desktop",
+      "page_views": 5,
+      "session_duration_sec": 230,
+      "bounce": true,
+      "transaction_value": 0.0
+    },
+    {
+      "session_id": "sess_100065",
+      "channel": "Referral",
+      "device": "Desktop",
+      "page_views": 11,
+      "session_duration_sec": 556,
+      "bounce": false,
+      "transaction_value": 0.0
+    },
+    {
+      "session_id": "sess_100066",
+      "channel": "Paid Search",
+      "device": "Desktop",
+      "page_views": 2,
+      "session_duration_sec": 270,
+      "bounce": false,
+      "transaction_value": 20.06
+    },
+    {
+      "session_id": "sess_100067",
+      "channel": "Organic Search",
+      "device": "Desktop",
+      "page_views": 1,
+      "session_duration_sec": 181,
+      "bounce": false,
+      "transaction_value": 11.52
+    },
+    {
+      "session_id": "sess_100068",
+      "channel": "Social Media",
+      "device": "Mobile",
+      "page_views": 5,
+      "session_duration_sec": 65,
+      "bounce": false,
+      "transaction_value": 0.0
+    },
+    {
+      "session_id": "sess_100069",
+      "channel": "Direct",
+      "device": "Tablet",
+      "page_views": 7,
+      "session_duration_sec": 343,
+      "bounce": true,
+      "transaction_value": 0.0
+    },
+    {
+      "session_id": "sess_100070",
+      "channel": "Referral",
+      "device": "Mobile",
+      "page_views": 7,
+      "session_duration_sec": 30,
+      "bounce": false,
+      "transaction_value": 0.0
+    },
+    {
+      "session_id": "sess_100071",
+      "channel": "Referral",
+      "device": "Desktop",
+      "page_views": 1,
+      "session_duration_sec": 131,
+      "bounce": false,
+      "transaction_value": 0.0
+    },
+    {
+      "session_id": "sess_100072",
+      "channel": "Direct",
+      "device": "Mobile",
+      "page_views": 3,
+      "session_duration_sec": 9,
+      "bounce": true,
+      "transaction_value": 0.0
+    },
+    {
+      "session_id": "sess_100073",
+      "channel": "Direct",
+      "device": "Mobile",
+      "page_views": 1,
+      "session_duration_sec": 190,
+      "bounce": true,
+      "transaction_value": 0.0
+    },
+    {
+      "session_id": "sess_100074",
+      "channel": "Social Media",
+      "device": "Desktop",
+      "page_views": 8,
+      "session_duration_sec": 364,
+      "bounce": false,
+      "transaction_value": 0.0
+    },
+    {
+      "session_id": "sess_100075",
+      "channel": "Direct",
+      "device": "Mobile",
+      "page_views": 3,
+      "session_duration_sec": 103,
+      "bounce": true,
+      "transaction_value": 0.0
+    },
+    {
+      "session_id": "sess_100076",
+      "channel": "Organic Search",
+      "device": "Mobile",
+      "page_views": 2,
+      "session_duration_sec": 135,
+      "bounce": true,
+      "transaction_value": 0.0
+    },
+    {
+      "session_id": "sess_100077",
+      "channel": "Referral",
+      "device": "Mobile",
+      "page_views": 2,
+      "session_duration_sec": 63,
+      "bounce": true,
+      "transaction_value": 0.0
+    },
+    {
+      "session_id": "sess_100078",
+      "channel": "Social Media",
+      "device": "Mobile",
+      "page_views": 1,
+      "session_duration_sec": 19,
+      "bounce": true,
+      "transaction_value": 33.8
+    },
+    {
+      "session_id": "sess_100079",
+      "channel": "Organic Search",
+      "device": "Desktop",
+      "page_views": 7,
+      "session_duration_sec": 102,
+      "bounce": true,
+      "transaction_value": 46.36
+    },
+    {
+      "session_id": "sess_100080",
+      "channel": "Direct",
+      "device": "Mobile",
+      "page_views": 1,
+      "session_duration_sec": 105,
+      "bounce": false,
+      "transaction_value": 0.0
+    },
+    {
+      "session_id": "sess_100081",
+      "channel": "Referral",
+      "device": "Mobile",
+      "page_views": 3,
+      "session_duration_sec": 324,
+      "bounce": false,
+      "transaction_value": 0.0
+    },
+    {
+      "session_id": "sess_100082",
+      "channel": "Organic Search",
+      "device": "Mobile",
+      "page_views": 6,
+      "session_duration_sec": 33,
+      "bounce": false,
+      "transaction_value": 0.0
+    },
+    {
+      "session_id": "sess_100083",
+      "channel": "Referral",
+      "device": "Mobile",
+      "page_views": 1,
+      "session_duration_sec": 214,
+      "bounce": false,
+      "transaction_value": 165.0
+    },
+    {
+      "session_id": "sess_100084",
+      "channel": "Direct",
+      "device": "Desktop",
+      "page_views": 5,
+      "session_duration_sec": 187,
+      "bounce": false,
+      "transaction_value": 0.0
+    },
+    {
+      "session_id": "sess_100085",
+      "channel": "Social Media",
+      "device": "Tablet",
+      "page_views": 7,
+      "session_duration_sec": 104,
+      "bounce": true,
+      "transaction_value": 0.0
+    },
+    {
+      "session_id": "sess_100086",
+      "channel": "Direct",
+      "device": "Desktop",
+      "page_views": 3,
+      "session_duration_sec": 313,
+      "bounce": false,
+      "transaction_value": 0.0
+    },
+    {
+      "session_id": "sess_100087",
+      "channel": "Referral",
+      "device": "Mobile",
+      "page_views": 1,
+      "session_duration_sec": 91,
+      "bounce": false,
+      "transaction_value": 0.0
+    },
+    {
+      "session_id": "sess_100088",
+      "channel": "Organic Search",
+      "device": "Tablet",
+      "page_views": 4,
+      "session_duration_sec": 305,
+      "bounce": false,
+      "transaction_value": 0.0
+    },
+    {
+      "session_id": "sess_100089",
+      "channel": "Social Media",
+      "device": "Desktop",
+      "page_views": 2,
+      "session_duration_sec": 197,
+      "bounce": true,
+      "transaction_value": 0.0
+    },
+    {
+      "session_id": "sess_100090",
+      "channel": "Paid Search",
+      "device": "Mobile",
+      "page_views": 7,
+      "session_duration_sec": 107,
+      "bounce": false,
+      "transaction_value": 0.0
+    },
+    {
+      "session_id": "sess_100091",
+      "channel": "Paid Search",
+      "device": "Mobile",
+      "page_views": 1,
+      "session_duration_sec": 98,
+      "bounce": false,
+      "transaction_value": 12.54
+    },
+    {
+      "session_id": "sess_100092",
+      "channel": "Referral",
+      "device": "Mobile",
+      "page_views": 2,
+      "session_duration_sec": 52,
+      "bounce": false,
+      "transaction_value": 0.0
+    },
+    {
+      "session_id": "sess_100093",
+      "channel": "Social Media",
+      "device": "Mobile",
+      "page_views": 3,
+      "session_duration_sec": 179,
+      "bounce": false,
+      "transaction_value": 0.0
+    },
+    {
+      "session_id": "sess_100094",
+      "channel": "Direct",
+      "device": "Mobile",
+      "page_views": 4,
+      "session_duration_sec": 366,
+      "bounce": true,
+      "transaction_value": 0.0
+    },
+    {
+      "session_id": "sess_100095",
+      "channel": "Organic Search",
+      "device": "Mobile",
+      "page_views": 1,
+      "session_duration_sec": 9,
+      "bounce": false,
+      "transaction_value": 17.8
+    },
+    {
+      "session_id": "sess_100096",
+      "channel": "Organic Search",
+      "device": "Desktop",
+      "page_views": 15,
+      "session_duration_sec": 611,
+      "bounce": false,
+      "transaction_value": 0.0
+    },
+    {
+      "session_id": "sess_100097",
+      "channel": "Social Media",
+      "device": "Mobile",
+      "page_views": 4,
+      "session_duration_sec": 202,
+      "bounce": true,
+      "transaction_value": 0.0
+    },
+    {
+      "session_id": "sess_100098",
+      "channel": "Paid Search",
+      "device": "Mobile",
+      "page_views": 2,
+      "session_duration_sec": 256,
+      "bounce": false,
+      "transaction_value": 0.0
+    },
+    {
+      "session_id": "sess_100099",
+      "channel": "Direct",
+      "device": "Desktop",
+      "page_views": 1,
+      "session_duration_sec": 301,
+      "bounce": false,
+      "transaction_value": 0.0
+    },
+    {
+      "session_id": "sess_100100",
+      "channel": "Direct",
+      "device": "Desktop",
+      "page_views": 4,
+      "session_duration_sec": 298,
+      "bounce": false,
+      "transaction_value": 0.0
+    },
+    {
+      "session_id": "sess_100101",
+      "channel": "Social Media",
+      "device": "Mobile",
+      "page_views": 2,
+      "session_duration_sec": 570,
+      "bounce": true,
+      "transaction_value": 0.0
+    },
+    {
+      "session_id": "sess_100102",
+      "channel": "Paid Search",
+      "device": "Mobile",
+      "page_views": 1,
+      "session_duration_sec": 48,
+      "bounce": false,
+      "transaction_value": 10.71
+    },
+    {
+      "session_id": "sess_100103",
+      "channel": "Direct",
+      "device": "Mobile",
+      "page_views": 2,
+      "session_duration_sec": 437,
+      "bounce": true,
+      "transaction_value": 0.0
+    },
+    {
+      "session_id": "sess_100104",
+      "channel": "Organic Search",
+      "device": "Desktop",
+      "page_views": 6,
+      "session_duration_sec": 122,
+      "bounce": false,
+      "transaction_value": 8.14
+    },
+    {
+      "session_id": "sess_100105",
+      "channel": "Paid Search",
+      "device": "Desktop",
+      "page_views": 1,
+      "session_duration_sec": 78,
+      "bounce": false,
+      "transaction_value": 0.0
+    },
+    {
+      "session_id": "sess_100106",
+      "channel": "Paid Search",
+      "device": "Desktop",
+      "page_views": 6,
+      "session_duration_sec": 39,
+      "bounce": false,
+      "transaction_value": 0.0
+    },
+    {
+      "session_id": "sess_100107",
+      "channel": "Social Media",
+      "device": "Mobile",
+      "page_views": 4,
+      "session_duration_sec": 37,
+      "bounce": false,
+      "transaction_value": 0.0
+    },
+    {
+      "session_id": "sess_100108",
+      "channel": "Paid Search",
+      "device": "Desktop",
+      "page_views": 1,
+      "session_duration_sec": 27,
+      "bounce": true,
+      "transaction_value": 0.0
+    },
+    {
+      "session_id": "sess_100109",
+      "channel": "Organic Search",
+      "device": "Desktop",
+      "page_views": 2,
+      "session_duration_sec": 108,
+      "bounce": false,
+      "transaction_value": 35.43
+    },
+    {
+      "session_id": "sess_100110",
+      "channel": "Social Media",
+      "device": "Mobile",
+      "page_views": 5,
+      "session_duration_sec": 78,
+      "bounce": false,
+      "transaction_value": 0.0
+    },
+    {
+      "session_id": "sess_100111",
+      "channel": "Referral",
+      "device": "Desktop",
+      "page_views": 1,
+      "session_duration_sec": 3,
+      "bounce": true,
+      "transaction_value": 0.0
+    },
+    {
+      "session_id": "sess_100112",
+      "channel": "Organic Search",
+      "device": "Mobile",
+      "page_views": 3,
+      "session_duration_sec": 321,
+      "bounce": false,
+      "transaction_value": 0.0
+    },
+    {
+      "session_id": "sess_100113",
+      "channel": "Social Media",
+      "device": "Desktop",
+      "page_views": 2,
+      "session_duration_sec": 208,
+      "bounce": true,
+      "transaction_value": 0.0
+    },
+    {
+      "session_id": "sess_100114",
+      "channel": "Paid Search",
+      "device": "Mobile",
+      "page_views": 1,
+      "session_duration_sec": 273,
+      "bounce": false,
+      "transaction_value": 0.0
+    },
+    {
+      "session_id": "sess_100115",
+      "channel": "Social Media",
+      "device": "Mobile",
+      "page_views": 1,
+      "session_duration_sec": 14,
+      "bounce": false,
+      "transaction_value": 0.0
+    },
+    {
+      "session_id": "sess_100116",
+      "channel": "Direct",
+      "device": "Mobile",
+      "page_views": 9,
+      "session_duration_sec": 49,
+      "bounce": false,
+      "transaction_value": 0.0
+    },
+    {
+      "session_id": "sess_100117",
+      "channel": "Direct",
+      "device": "Desktop",
+      "page_views": 7,
+      "session_duration_sec": 180,
+      "bounce": false,
+      "transaction_value": 0.0
+    },
+    {
+      "session_id": "sess_100118",
+      "channel": "Direct",
+      "device": "Desktop",
+      "page_views": 2,
+      "session_duration_sec": 177,
+      "bounce": true,
+      "transaction_value": 12.06
+    },
+    {
+      "session_id": "sess_100119",
+      "channel": "Paid Search",
+      "device": "Desktop",
+      "page_views": 3,
+      "session_duration_sec": 20,
+      "bounce": true,
+      "transaction_value": 14.14
+    },
+    {
+      "session_id": "sess_100120",
+      "channel": "Direct",
+      "device": "Desktop",
+      "page_views": 5,
+      "session_duration_sec": 14,
+      "bounce": false,
+      "transaction_value": 0.0
+    },
+    {
+      "session_id": "sess_100121",
+      "channel": "Social Media",
+      "device": "Mobile",
+      "page_views": 2,
+      "session_duration_sec": 285,
+      "bounce": true,
+      "transaction_value": 150.03
+    },
+    {
+      "session_id": "sess_100122",
+      "channel": "Organic Search",
+      "device": "Desktop",
+      "page_views": 1,
+      "session_duration_sec": 57,
+      "bounce": false,
+      "transaction_value": 0.0
+    },
+    {
+      "session_id": "sess_100123",
+      "channel": "Organic Search",
+      "device": "Desktop",
+      "page_views": 12,
+      "session_duration_sec": 178,
+      "bounce": false,
+      "transaction_value": 0.0
+    },
+    {
+      "session_id": "sess_100124",
+      "channel": "Social Media",
+      "device": "Desktop",
+      "page_views": 1,
+      "session_duration_sec": 3,
+      "bounce": true,
+      "transaction_value": 0.0
+    },
+    {
+      "session_id": "sess_100125",
+      "channel": "Social Media",
+      "device": "Mobile",
+      "page_views": 1,
+      "session_duration_sec": 65,
+      "bounce": false,
+      "transaction_value": 0.0
+    },
+    {
+      "session_id": "sess_100126",
+      "channel": "Direct",
+      "device": "Mobile",
+      "page_views": 1,
+      "session_duration_sec": 80,
+      "bounce": false,
+      "transaction_value": 0.0
+    },
+    {
+      "session_id": "sess_100127",
+      "channel": "Paid Search",
+      "device": "Tablet",
+      "page_views": 2,
+      "session_duration_sec": 304,
+      "bounce": false,
+      "transaction_value": 40.72
+    },
+    {
+      "session_id": "sess_100128",
+      "channel": "Direct",
+      "device": "Mobile",
+      "page_views": 4,
+      "session_duration_sec": 51,
+      "bounce": false,
+      "transaction_value": 0.0
+    },
+    {
+      "session_id": "sess_100129",
+      "channel": "Social Media",
+      "device": "Desktop",
+      "page_views": 1,
+      "session_duration_sec": 372,
+      "bounce": true,
+      "transaction_value": 0.0
+    },
+    {
+      "session_id": "sess_100130",
+      "channel": "Referral",
+      "device": "Desktop",
+      "page_views": 2,
+      "session_duration_sec": 31,
+      "bounce": false,
+      "transaction_value": 89.71
+    },
+    {
+      "session_id": "sess_100131",
+      "channel": "Referral",
+      "device": "Desktop",
+      "page_views": 1,
+      "session_duration_sec": 210,
+      "bounce": false,
+      "transaction_value": 0.0
+    },
+    {
+      "session_id": "sess_100132",
+      "channel": "Paid Search",
+      "device": "Mobile",
+      "page_views": 3,
+      "session_duration_sec": 1,
+      "bounce": false,
+      "transaction_value": 26.31
+    },
+    {
+      "session_id": "sess_100133",
+      "channel": "Paid Search",
+      "device": "Desktop",
+      "page_views": 12,
+      "session_duration_sec": 86,
+      "bounce": true,
+      "transaction_value": 0.0
+    },
+    {
+      "session_id": "sess_100134",
+      "channel": "Direct",
+      "device": "Mobile",
+      "page_views": 5,
+      "session_duration_sec": 96,
+      "bounce": true,
+      "transaction_value": 49.79
+    },
+    {
+      "session_id": "sess_100135",
+      "channel": "Organic Search",
+      "device": "Mobile",
+      "page_views": 1,
+      "session_duration_sec": 177,
+      "bounce": true,
+      "transaction_value": 29.44
+    },
+    {
+      "session_id": "sess_100136",
+      "channel": "Organic Search",
+      "device": "Desktop",
+      "page_views": 1,
+      "session_duration_sec": 365,
+      "bounce": false,
+      "transaction_value": 0.0
+    },
+    {
+      "session_id": "sess_100137",
+      "channel": "Direct",
+      "device": "Mobile",
+      "page_views": 2,
+      "session_duration_sec": 38,
+      "bounce": false,
+      "transaction_value": 0.0
+    },
+    {
+      "session_id": "sess_100138",
+      "channel": "Direct",
+      "device": "Mobile",
+      "page_views": 3,
+      "session_duration_sec": 140,
+      "bounce": true,
+      "transaction_value": 0.0
+    },
+    {
+      "session_id": "sess_100139",
+      "channel": "Direct",
+      "device": "Mobile",
+      "page_views": 2,
+      "session_duration_sec": 36,
+      "bounce": true,
+      "transaction_value": 0.0
+    },
+    {
+      "session_id": "sess_100140",
+      "channel": "Social Media",
+      "device": "Desktop",
+      "page_views": 8,
+      "session_duration_sec": 223,
+      "bounce": false,
+      "transaction_value": 0.0
+    },
+    {
+      "session_id": "sess_100141",
+      "channel": "Direct",
+      "device": "Tablet",
+      "page_views": 4,
+      "session_duration_sec": 60,
+      "bounce": false,
+      "transaction_value": 0.0
+    },
+    {
+      "session_id": "sess_100142",
+      "channel": "Organic Search",
+      "device": "Desktop",
+      "page_views": 3,
+      "session_duration_sec": 50,
+      "bounce": false,
+      "transaction_value": 50.36
+    },
+    {
+      "session_id": "sess_100143",
+      "channel": "Referral",
+      "device": "Mobile",
+      "page_views": 1,
+      "session_duration_sec": 72,
+      "bounce": true,
+      "transaction_value": 22.2
+    },
+    {
+      "session_id": "sess_100144",
+      "channel": "Social Media",
+      "device": "Tablet",
+      "page_views": 5,
+      "session_duration_sec": 336,
+      "bounce": false,
+      "transaction_value": 0.0
+    },
+    {
+      "session_id": "sess_100145",
+      "channel": "Direct",
+      "device": "Mobile",
+      "page_views": 2,
+      "session_duration_sec": 19,
+      "bounce": false,
+      "transaction_value": 0.0
+    },
+    {
+      "session_id": "sess_100146",
+      "channel": "Direct",
+      "device": "Mobile",
+      "page_views": 5,
+      "session_duration_sec": 28,
+      "bounce": true,
+      "transaction_value": 43.1
+    },
+    {
+      "session_id": "sess_100147",
+      "channel": "Organic Search",
+      "device": "Desktop",
+      "page_views": 3,
+      "session_duration_sec": 412,
+      "bounce": false,
+      "transaction_value": 0.0
+    },
+    {
+      "session_id": "sess_100148",
+      "channel": "Organic Search",
+      "device": "Desktop",
+      "page_views": 9,
+      "session_duration_sec": 93,
+      "bounce": false,
+      "transaction_value": 0.0
+    },
+    {
+      "session_id": "sess_100149",
+      "channel": "Referral",
+      "device": "Mobile",
+      "page_views": 4,
+      "session_duration_sec": 75,
+      "bounce": true,
+      "transaction_value": 11.01
+    },
+    {
+      "session_id": "sess_100150",
+      "channel": "Referral",
+      "device": "Desktop",
+      "page_views": 9,
+      "session_duration_sec": 9,
+      "bounce": true,
+      "transaction_value": 0.0
+    },
+    {
+      "session_id": "sess_100151",
+      "channel": "Organic Search",
+      "device": "Desktop",
+      "page_views": 2,
+      "session_duration_sec": 731,
+      "bounce": false,
+      "transaction_value": 0.0
+    },
+    {
+      "session_id": "sess_100152",
+      "channel": "Organic Search",
+      "device": "Desktop",
+      "page_views": 3,
+      "session_duration_sec": 484,
+      "bounce": false,
+      "transaction_value": 0.6
+    },
+    {
+      "session_id": "sess_100153",
+      "channel": "Referral",
+      "device": "Mobile",
+      "page_views": 4,
+      "session_duration_sec": 306,
+      "bounce": false,
+      "transaction_value": 0.0
+    },
+    {
+      "session_id": "sess_100154",
+      "channel": "Organic Search",
+      "device": "Mobile",
+      "page_views": 2,
+      "session_duration_sec": 29,
+      "bounce": false,
+      "transaction_value": 0.0
+    },
+    {
+      "session_id": "sess_100155",
+      "channel": "Referral",
+      "device": "Desktop",
+      "page_views": 3,
+      "session_duration_sec": 15,
+      "bounce": false,
+      "transaction_value": 39.57
+    },
+    {
+      "session_id": "sess_100156",
+      "channel": "Referral",
+      "device": "Desktop",
+      "page_views": 1,
+      "session_duration_sec": 175,
+      "bounce": false,
+      "transaction_value": 0.0
+    },
+    {
+      "session_id": "sess_100157",
+      "channel": "Organic Search",
+      "device": "Desktop",
+      "page_views": 3,
+      "session_duration_sec": 142,
+      "bounce": true,
+      "transaction_value": 0.0
+    },
+    {
+      "session_id": "sess_100158",
+      "channel": "Referral",
+      "device": "Desktop",
+      "page_views": 10,
+      "session_duration_sec": 449,
+      "bounce": false,
+      "transaction_value": 0.0
+    },
+    {
+      "session_id": "sess_100159",
+      "channel": "Social Media",
+      "device": "Desktop",
+      "page_views": 4,
+      "session_duration_sec": 19,
+      "bounce": false,
+      "transaction_value": 0.0
+    },
+    {
+      "session_id": "sess_100160",
+      "channel": "Direct",
+      "device": "Mobile",
+      "page_views": 1,
+      "session_duration_sec": 57,
+      "bounce": true,
+      "transaction_value": 72.93
+    },
+    {
+      "session_id": "sess_100161",
+      "channel": "Direct",
+      "device": "Mobile",
+      "page_views": 3,
+      "session_duration_sec": 24,
+      "bounce": false,
+      "transaction_value": 0.0
+    },
+    {
+      "session_id": "sess_100162",
+      "channel": "Direct",
+      "device": "Mobile",
+      "page_views": 6,
+      "session_duration_sec": 156,
+      "bounce": true,
+      "transaction_value": 0.0
+    },
+    {
+      "session_id": "sess_100163",
+      "channel": "Organic Search",
+      "device": "Desktop",
+      "page_views": 2,
+      "session_duration_sec": 135,
+      "bounce": false,
+      "transaction_value": 18.76
+    },
+    {
+      "session_id": "sess_100164",
+      "channel": "Direct",
+      "device": "Mobile",
+      "page_views": 6,
+      "session_duration_sec": 321,
+      "bounce": false,
+      "transaction_value": 0.0
+    },
+    {
+      "session_id": "sess_100165",
+      "channel": "Referral",
+      "device": "Mobile",
+      "page_views": 8,
+      "session_duration_sec": 430,
+      "bounce": false,
+      "transaction_value": 0.0
+    },
+    {
+      "session_id": "sess_100166",
+      "channel": "Organic Search",
+      "device": "Desktop",
+      "page_views": 1,
+      "session_duration_sec": 536,
+      "bounce": true,
+      "transaction_value": 0.0
+    },
+    {
+      "session_id": "sess_100167",
+      "channel": "Referral",
+      "device": "Desktop",
+      "page_views": 1,
+      "session_duration_sec": 210,
+      "bounce": false,
+      "transaction_value": 0.0
+    },
+    {
+      "session_id": "sess_100168",
+      "channel": "Social Media",
+      "device": "Desktop",
+      "page_views": 4,
+      "session_duration_sec": 71,
+      "bounce": true,
+      "transaction_value": 0.0
+    },
+    {
+      "session_id": "sess_100169",
+      "channel": "Paid Search",
+      "device": "Mobile",
+      "page_views": 1,
+      "session_duration_sec": 222,
+      "bounce": true,
+      "transaction_value": 0.0
+    },
+    {
+      "session_id": "sess_100170",
+      "channel": "Organic Search",
+      "device": "Mobile",
+      "page_views": 9,
+      "session_duration_sec": 448,
+      "bounce": false,
+      "transaction_value": 0.0
+    },
+    {
+      "session_id": "sess_100171",
+      "channel": "Organic Search",
+      "device": "Desktop",
+      "page_views": 6,
+      "session_duration_sec": 78,
+      "bounce": false,
+      "transaction_value": 0.0
+    },
+    {
+      "session_id": "sess_100172",
+      "channel": "Referral",
+      "device": "Desktop",
+      "page_views": 1,
+      "session_duration_sec": 122,
+      "bounce": true,
+      "transaction_value": 0.0
+    },
+    {
+      "session_id": "sess_100173",
+      "channel": "Referral",
+      "device": "Mobile",
+      "page_views": 4,
+      "session_duration_sec": 69,
+      "bounce": true,
+      "transaction_value": 0.0
+    },
+    {
+      "session_id": "sess_100174",
+      "channel": "Referral",
+      "device": "Mobile",
+      "page_views": 4,
+      "session_duration_sec": 813,
+      "bounce": true,
+      "transaction_value": 0.0
+    },
+    {
+      "session_id": "sess_100175",
+      "channel": "Paid Search",
+      "device": "Desktop",
+      "page_views": 1,
+      "session_duration_sec": 87,
+      "bounce": false,
+      "transaction_value": 41.55
+    },
+    {
+      "session_id": "sess_100176",
+      "channel": "Paid Search",
+      "device": "Desktop",
+      "page_views": 1,
+      "session_duration_sec": 84,
+      "bounce": false,
+      "transaction_value": 0.0
+    },
+    {
+      "session_id": "sess_100177",
+      "channel": "Direct",
+      "device": "Desktop",
+      "page_views": 3,
+      "session_duration_sec": 183,
+      "bounce": false,
+      "transaction_value": 0.0
+    },
+    {
+      "session_id": "sess_100178",
+      "channel": "Paid Search",
+      "device": "Mobile",
+      "page_views": 2,
+      "session_duration_sec": 80,
+      "bounce": true,
+      "transaction_value": 68.79
+    },
+    {
+      "session_id": "sess_100179",
+      "channel": "Direct",
+      "device": "Desktop",
+      "page_views": 2,
+      "session_duration_sec": 908,
+      "bounce": true,
+      "transaction_value": 0.0
+    },
+    {
+      "session_id": "sess_100180",
+      "channel": "Paid Search",
+      "device": "Desktop",
+      "page_views": 1,
+      "session_duration_sec": 37,
+      "bounce": true,
+      "transaction_value": 57.82
+    },
+    {
+      "session_id": "sess_100181",
+      "channel": "Paid Search",
+      "device": "Mobile",
+      "page_views": 2,
+      "session_duration_sec": 461,
+      "bounce": true,
+      "transaction_value": 98.82
+    },
+    {
+      "session_id": "sess_100182",
+      "channel": "Social Media",
+      "device": "Mobile",
+      "page_views": 2,
+      "session_duration_sec": 775,
+      "bounce": true,
+      "transaction_value": 0.0
+    },
+    {
+      "session_id": "sess_100183",
+      "channel": "Organic Search",
+      "device": "Mobile",
+      "page_views": 1,
+      "session_duration_sec": 82,
+      "bounce": true,
+      "transaction_value": 0.45
+    },
+    {
+      "session_id": "sess_100184",
+      "channel": "Social Media",
+      "device": "Desktop",
+      "page_views": 1,
+      "session_duration_sec": 69,
+      "bounce": false,
+      "transaction_value": 0.0
+    },
+    {
+      "session_id": "sess_100185",
+      "channel": "Social Media",
+      "device": "Desktop",
+      "page_views": 1,
+      "session_duration_sec": 2,
+      "bounce": true,
+      "transaction_value": 0.0
+    },
+    {
+      "session_id": "sess_100186",
+      "channel": "Paid Search",
+      "device": "Desktop",
+      "page_views": 4,
+      "session_duration_sec": 185,
+      "bounce": false,
+      "transaction_value": 52.98
+    },
+    {
+      "session_id": "sess_100187",
+      "channel": "Organic Search",
+      "device": "Mobile",
+      "page_views": 1,
+      "session_duration_sec": 558,
+      "bounce": false,
+      "transaction_value": 0.0
+    },
+    {
+      "session_id": "sess_100188",
+      "channel": "Referral",
+      "device": "Mobile",
+      "page_views": 3,
+      "session_duration_sec": 17,
+      "bounce": false,
+      "transaction_value": 0.0
+    },
+    {
+      "session_id": "sess_100189",
+      "channel": "Direct",
+      "device": "Desktop",
+      "page_views": 5,
+      "session_duration_sec": 206,
+      "bounce": false,
+      "transaction_value": 0.0
+    },
+    {
+      "session_id": "sess_100190",
+      "channel": "Social Media",
+      "device": "Desktop",
+      "page_views": 5,
+      "session_duration_sec": 292,
+      "bounce": true,
+      "transaction_value": 0.0
+    },
+    {
+      "session_id": "sess_100191",
+      "channel": "Direct",
+      "device": "Desktop",
+      "page_views": 5,
+      "session_duration_sec": 221,
+      "bounce": true,
+      "transaction_value": 0.0
+    },
+    {
+      "session_id": "sess_100192",
+      "channel": "Social Media",
+      "device": "Desktop",
+      "page_views": 1,
+      "session_duration_sec": 561,
+      "bounce": true,
+      "transaction_value": 0.0
+    },
+    {
+      "session_id": "sess_100193",
+      "channel": "Organic Search",
+      "device": "Mobile",
+      "page_views": 7,
+      "session_duration_sec": 145,
+      "bounce": true,
+      "transaction_value": 0.0
+    },
+    {
+      "session_id": "sess_100194",
+      "channel": "Social Media",
+      "device": "Desktop",
+      "page_views": 2,
+      "session_duration_sec": 97,
+      "bounce": false,
+      "transaction_value": 0.0
+    },
+    {
+      "session_id": "sess_100195",
+      "channel": "Direct",
+      "device": "Mobile",
+      "page_views": 4,
+      "session_duration_sec": 254,
+      "bounce": false,
+      "transaction_value": 0.0
+    },
+    {
+      "session_id": "sess_100196",
+      "channel": "Direct",
+      "device": "Desktop",
+      "page_views": 1,
+      "session_duration_sec": 146,
+      "bounce": false,
+      "transaction_value": 0.0
+    },
+    {
+      "session_id": "sess_100197",
+      "channel": "Paid Search",
+      "device": "Desktop",
+      "page_views": 2,
+      "session_duration_sec": 143,
+      "bounce": false,
+      "transaction_value": 0.0
+    },
+    {
+      "session_id": "sess_100198",
+      "channel": "Organic Search",
+      "device": "Mobile",
+      "page_views": 2,
+      "session_duration_sec": 131,
+      "bounce": true,
+      "transaction_value": 0.0
+    },
+    {
+      "session_id": "sess_100199",
+      "channel": "Direct",
+      "device": "Desktop",
+      "page_views": 6,
+      "session_duration_sec": 75,
+      "bounce": false,
+      "transaction_value": 50.01
+    },
+    {
+      "session_id": "sess_100200",
+      "channel": "Direct",
+      "device": "Mobile",
+      "page_views": 6,
+      "session_duration_sec": 586,
+      "bounce": false,
+      "transaction_value": 0.0
+    },
+    {
+      "session_id": "sess_100201",
+      "channel": "Organic Search",
+      "device": "Mobile",
+      "page_views": 1,
+      "session_duration_sec": 315,
+      "bounce": false,
+      "transaction_value": 56.27
+    },
+    {
+      "session_id": "sess_100202",
+      "channel": "Organic Search",
+      "device": "Desktop",
+      "page_views": 1,
+      "session_duration_sec": 19,
+      "bounce": false,
+      "transaction_value": 0.0
+    },
+    {
+      "session_id": "sess_100203",
+      "channel": "Organic Search",
+      "device": "Desktop",
+      "page_views": 2,
+      "session_duration_sec": 545,
+      "bounce": true,
+      "transaction_value": 95.88
+    },
+    {
+      "session_id": "sess_100204",
+      "channel": "Social Media",
+      "device": "Mobile",
+      "page_views": 4,
+      "session_duration_sec": 83,
+      "bounce": true,
+      "transaction_value": 0.99
+    },
+    {
+      "session_id": "sess_100205",
+      "channel": "Paid Search",
+      "device": "Mobile",
+      "page_views": 2,
+      "session_duration_sec": 105,
+      "bounce": true,
+      "transaction_value": 0.0
+    },
+    {
+      "session_id": "sess_100206",
+      "channel": "Social Media",
+      "device": "Mobile",
+      "page_views": 7,
+      "session_duration_sec": 119,
+      "bounce": false,
+      "transaction_value": 0.0
+    },
+    {
+      "session_id": "sess_100207",
+      "channel": "Organic Search",
+      "device": "Mobile",
+      "page_views": 4,
+      "session_duration_sec": 154,
+      "bounce": false,
+      "transaction_value": 0.0
+    },
+    {
+      "session_id": "sess_100208",
+      "channel": "Paid Search",
+      "device": "Mobile",
+      "page_views": 3,
+      "session_duration_sec": 80,
+      "bounce": true,
+      "transaction_value": 0.0
+    },
+    {
+      "session_id": "sess_100209",
+      "channel": "Organic Search",
+      "device": "Desktop",
+      "page_views": 4,
+      "session_duration_sec": 369,
+      "bounce": true,
+      "transaction_value": 21.98
+    },
+    {
+      "session_id": "sess_100210",
+      "channel": "Social Media",
+      "device": "Mobile",
+      "page_views": 1,
+      "session_duration_sec": 245,
+      "bounce": true,
+      "transaction_value": 0.0
+    },
+    {
+      "session_id": "sess_100211",
+      "channel": "Social Media",
+      "device": "Mobile",
+      "page_views": 4,
+      "session_duration_sec": 20,
+      "bounce": false,
+      "transaction_value": 0.0
+    },
+    {
+      "session_id": "sess_100212",
+      "channel": "Social Media",
+      "device": "Mobile",
+      "page_views": 6,
+      "session_duration_sec": 96,
+      "bounce": false,
+      "transaction_value": 0.0
+    },
+    {
+      "session_id": "sess_100213",
+      "channel": "Paid Search",
+      "device": "Desktop",
+      "page_views": 1,
+      "session_duration_sec": 29,
+      "bounce": false,
+      "transaction_value": 0.0
+    },
+    {
+      "session_id": "sess_100214",
+      "channel": "Direct",
+      "device": "Mobile",
+      "page_views": 2,
+      "session_duration_sec": 522,
+      "bounce": false,
+      "transaction_value": 0.0
+    },
+    {
+      "session_id": "sess_100215",
+      "channel": "Social Media",
+      "device": "Desktop",
+      "page_views": 2,
+      "session_duration_sec": 109,
+      "bounce": false,
+      "transaction_value": 0.0
+    },
+    {
+      "session_id": "sess_100216",
+      "channel": "Organic Search",
+      "device": "Mobile",
+      "page_views": 4,
+      "session_duration_sec": 74,
+      "bounce": false,
+      "transaction_value": 10.57
+    },
+    {
+      "session_id": "sess_100217",
+      "channel": "Referral",
+      "device": "Mobile",
+      "page_views": 3,
+      "session_duration_sec": 531,
+      "bounce": true,
+      "transaction_value": 0.0
+    },
+    {
+      "session_id": "sess_100218",
+      "channel": "Referral",
+      "device": "Mobile",
+      "page_views": 1,
+      "session_duration_sec": 50,
+      "bounce": false,
+      "transaction_value": 0.0
+    },
+    {
+      "session_id": "sess_100219",
+      "channel": "Paid Search",
+      "device": "Tablet",
+      "page_views": 1,
+      "session_duration_sec": 322,
+      "bounce": false,
+      "transaction_value": 0.0
+    },
+    {
+      "session_id": "sess_100220",
+      "channel": "Social Media",
+      "device": "Mobile",
+      "page_views": 4,
+      "session_duration_sec": 840,
+      "bounce": true,
+      "transaction_value": 0.0
+    },
+    {
+      "session_id": "sess_100221",
+      "channel": "Social Media",
+      "device": "Mobile",
+      "page_views": 4,
+      "session_duration_sec": 385,
+      "bounce": true,
+      "transaction_value": 2.77
+    },
+    {
+      "session_id": "sess_100222",
+      "channel": "Paid Search",
+      "device": "Mobile",
+      "page_views": 1,
+      "session_duration_sec": 96,
+      "bounce": true,
+      "transaction_value": 10.51
+    },
+    {
+      "session_id": "sess_100223",
+      "channel": "Social Media",
+      "device": "Mobile",
+      "page_views": 2,
+      "session_duration_sec": 39,
+      "bounce": false,
+      "transaction_value": 0.0
+    },
+    {
+      "session_id": "sess_100224",
+      "channel": "Organic Search",
+      "device": "Mobile",
+      "page_views": 5,
+      "session_duration_sec": 56,
+      "bounce": false,
+      "transaction_value": 0.0
+    },
+    {
+      "session_id": "sess_100225",
+      "channel": "Direct",
+      "device": "Desktop",
+      "page_views": 2,
+      "session_duration_sec": 30,
+      "bounce": false,
+      "transaction_value": 14.06
+    },
+    {
+      "session_id": "sess_100226",
+      "channel": "Direct",
+      "device": "Desktop",
+      "page_views": 4,
+      "session_duration_sec": 52,
+      "bounce": false,
+      "transaction_value": 0.0
+    },
+    {
+      "session_id": "sess_100227",
+      "channel": "Paid Search",
+      "device": "Mobile",
+      "page_views": 2,
+      "session_duration_sec": 555,
+      "bounce": false,
+      "transaction_value": 56.27
+    },
+    {
+      "session_id": "sess_100228",
+      "channel": "Paid Search",
+      "device": "Mobile",
+      "page_views": 1,
+      "session_duration_sec": 27,
+      "bounce": false,
+      "transaction_value": 0.0
+    },
+    {
+      "session_id": "sess_100229",
+      "channel": "Organic Search",
+      "device": "Desktop",
+      "page_views": 3,
+      "session_duration_sec": 331,
+      "bounce": false,
+      "transaction_value": 0.0
+    },
+    {
+      "session_id": "sess_100230",
+      "channel": "Organic Search",
+      "device": "Mobile",
+      "page_views": 1,
+      "session_duration_sec": 208,
+      "bounce": false,
+      "transaction_value": 0.0
+    },
+    {
+      "session_id": "sess_100231",
+      "channel": "Organic Search",
+      "device": "Mobile",
+      "page_views": 2,
+      "session_duration_sec": 218,
+      "bounce": false,
+      "transaction_value": 0.0
+    },
+    {
+      "session_id": "sess_100232",
+      "channel": "Paid Search",
+      "device": "Mobile",
+      "page_views": 4,
+      "session_duration_sec": 44,
+      "bounce": false,
+      "transaction_value": 35.64
+    },
+    {
+      "session_id": "sess_100233",
+      "channel": "Direct",
+      "device": "Mobile",
+      "page_views": 3,
+      "session_duration_sec": 139,
+      "bounce": false,
+      "transaction_value": 44.73
+    },
+    {
+      "session_id": "sess_100234",
+      "channel": "Referral",
+      "device": "Mobile",
+      "page_views": 1,
+      "session_duration_sec": 39,
+      "bounce": false,
+      "transaction_value": 21.77
+    },
+    {
+      "session_id": "sess_100235",
+      "channel": "Organic Search",
+      "device": "Desktop",
+      "page_views": 1,
+      "session_duration_sec": 220,
+      "bounce": true,
+      "transaction_value": 0.0
+    },
+    {
+      "session_id": "sess_100236",
+      "channel": "Referral",
+      "device": "Desktop",
+      "page_views": 2,
+      "session_duration_sec": 4,
+      "bounce": true,
+      "transaction_value": 10.11
+    },
+    {
+      "session_id": "sess_100237",
+      "channel": "Organic Search",
+      "device": "Tablet",
+      "page_views": 6,
+      "session_duration_sec": 6,
+      "bounce": false,
+      "transaction_value": 0.0
+    },
+    {
+      "session_id": "sess_100238",
+      "channel": "Social Media",
+      "device": "Mobile",
+      "page_views": 6,
+      "session_duration_sec": 206,
+      "bounce": true,
+      "transaction_value": 84.04
+    },
+    {
+      "session_id": "sess_100239",
+      "channel": "Paid Search",
+      "device": "Mobile",
+      "page_views": 1,
+      "session_duration_sec": 335,
+      "bounce": false,
+      "transaction_value": 7.62
+    },
+    {
+      "session_id": "sess_100240",
+      "channel": "Social Media",
+      "device": "Desktop",
+      "page_views": 5,
+      "session_duration_sec": 37,
+      "bounce": true,
+      "transaction_value": 1.13
+    },
+    {
+      "session_id": "sess_100241",
+      "channel": "Paid Search",
+      "device": "Desktop",
+      "page_views": 2,
+      "session_duration_sec": 351,
+      "bounce": true,
+      "transaction_value": 0.0
+    },
+    {
+      "session_id": "sess_100242",
+      "channel": "Referral",
+      "device": "Desktop",
+      "page_views": 8,
+      "session_duration_sec": 364,
+      "bounce": false,
+      "transaction_value": 0.0
+    },
+    {
+      "session_id": "sess_100243",
+      "channel": "Direct",
+      "device": "Mobile",
+      "page_views": 1,
+      "session_duration_sec": 294,
+      "bounce": false,
+      "transaction_value": 0.0
+    },
+    {
+      "session_id": "sess_100244",
+      "channel": "Organic Search",
+      "device": "Desktop",
+      "page_views": 3,
+      "session_duration_sec": 125,
+      "bounce": true,
+      "transaction_value": 0.0
+    },
+    {
+      "session_id": "sess_100245",
+      "channel": "Organic Search",
+      "device": "Desktop",
+      "page_views": 2,
+      "session_duration_sec": 62,
+      "bounce": true,
+      "transaction_value": 0.0
+    },
+    {
+      "session_id": "sess_100246",
+      "channel": "Paid Search",
+      "device": "Mobile",
+      "page_views": 1,
+      "session_duration_sec": 59,
+      "bounce": false,
+      "transaction_value": 0.0
+    },
+    {
+      "session_id": "sess_100247",
+      "channel": "Referral",
+      "device": "Desktop",
+      "page_views": 3,
+      "session_duration_sec": 30,
+      "bounce": true,
+      "transaction_value": 0.0
+    },
+    {
+      "session_id": "sess_100248",
+      "channel": "Referral",
+      "device": "Mobile",
+      "page_views": 2,
+      "session_duration_sec": 247,
+      "bounce": false,
+      "transaction_value": 0.0
+    },
+    {
+      "session_id": "sess_100249",
+      "channel": "Social Media",
+      "device": "Mobile",
+      "page_views": 11,
+      "session_duration_sec": 314,
+      "bounce": true,
+      "transaction_value": 0.0
+    }
+  ]
+}
